@@ -54,7 +54,7 @@ export default {
       //   headers: {
       //     "x-rapidapi-host": "imdb8.p.rapidapi.com",
       //     "x-rapidapi-key":
-      //       "505761f37fmsh42d69b7ec9f5095p13171cjsnd2198230aaf0",
+      // shit left my keys at home
       //   },
       // });
       // const data = await response.json();
